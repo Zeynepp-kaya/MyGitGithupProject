@@ -6,6 +6,8 @@ public class AtmApp {
         System.out.println("bu bir atm projesidir.");
 
 //version1
+        System.out.println("java is easy!");
+        // version2
 
 
 
