@@ -16,6 +16,7 @@ public class AtmApp {
         System.out.println("git ogrenmek zevkli");
 
 //version 6
+        //version6
 
 
 
